@@ -1,0 +1,28 @@
+{
+  "name": "backend-service",
+  "version": "1.0.0",
+  "description": "sketch-app-backend-service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weather2602/backend-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weather2602/backend-service/issues"
+  },
+  "homepage": "https://github.com/weather2602/backend-service#readme",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "express": "^4.21.2",
+    "form-data": "^4.0.2",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.13.0",
+    "multer": "^1.4.5-lts.2"
+  }
+}
